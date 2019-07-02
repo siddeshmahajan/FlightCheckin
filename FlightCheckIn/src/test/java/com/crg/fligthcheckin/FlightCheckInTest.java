@@ -9,4 +9,4 @@ public class FlightCheckInTest {
 	public void test() {
 		
 	}
-}
+}.
